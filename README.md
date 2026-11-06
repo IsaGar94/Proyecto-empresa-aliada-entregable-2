@@ -1,7 +1,3 @@
-# Proyecto Empresa Aliada – Entregable 2
-
-## Análisis exploratorio y visualización de datos de ventas
-
 ## 1. Propósito del proyecto
 
 El propósito de este proyecto es realizar un análisis exploratorio de los datos de ventas mediante herramientas de visualización en Python. Para desarrollar este entregable se utilizó el archivo `Productos.xlsx`, generado durante el proyecto anterior de limpieza e integración de datos. A partir de esta información se realizaron diferentes gráficas que permiten explorar la distribución de las ventas, analizar su comportamiento a través del tiempo, identificar relaciones entre variables, comparar las ventas por región.
