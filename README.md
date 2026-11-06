@@ -115,7 +115,7 @@ Durante la ejecución del proyecto se generaron las siguientes visualizaciones:
 
 Las gráficas se guardaron en formato PNG para facilitar su consulta, presentación y utilización en el análisis.
 
-## 6. Conclusiones generales
+## 6. Conclusiones
 
 En este segundo entregable se aprovechó la información consolidada durante el proceso de limpieza e integración de datos para realizar un análisis exploratorio mediante diferentes técnicas de visualización.
 
