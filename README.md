@@ -122,7 +122,7 @@ En conjunto, estas visualizaciones facilitan la comprensión de la información 
 ## 7. Estructura general del proyecto
 
 ```text
-Proyecto_Empresa_Aliada_Entregable_2/
+Proyecto/
 │
 ├── Productos.xlsx
 ├── Codigo.ipynb
